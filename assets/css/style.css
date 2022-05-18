@@ -1364,9 +1364,9 @@
       {
         margin-bottom: var(--m-1-5);
       }
-      .contact-data,
-      .blog-item,
       .education,
+      .blog-item,
+      .contact-box
       {
         margin-bottom: var(--m-2-5);
       }
